@@ -1,0 +1,10 @@
+The command that creates a branch is called git checkout -b
+
+The difference between fast forward and recursive is the fast forwards only happen when there havent been
+any commits on the orginal branch while it is beening worked on
+
+to change to another branch use git checkout
+
+To delete a branch use git branch -D
+
+Conflicts occur when git ca decide which file/folder to merge
